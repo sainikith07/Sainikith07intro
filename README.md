@@ -8,7 +8,6 @@
 
 ## 💫 About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=false&vCenter=true&random=false&width=435&lines=B.Tech+CS+%26+Data+Science+Student;Passionate+Developer;Technology+Explorer;Continuous+Learner" alt="About Me Typing SVG" />
 
 - 🎓 B.Tech in Computer Science & Data Science student at ACE Engineering College (3rd year)
 - 💻 Passionate about Full Stack Development with a focus on modern web technologies
