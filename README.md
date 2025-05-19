@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello World! I'm Sai Nikith 👋 
+# Hello There! I'm Sai Nikith 👋 
 
 ### Full Stack Developer | Data Science Student | ML Enthusiast | Aspiring Data Analyst |
 # 💫 About Me:
