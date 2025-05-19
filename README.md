@@ -2,7 +2,7 @@
   
 # Hello World! I'm Sai Nikith 👋 
 
-### Full Stack Developer | Data Science Student | Tech Enthusiast | 
+### Full Stack Developer | Data Science Student | ML Enthusiast | Aspiring Data Analyst |
 # 💫 About Me:
 B.Tech in Computer Science & Data Science student at ACE Engineering College (3rd year)<br>💻 Passionate about Full Stack Development with a focus on modern web technologies, Machine Learning, and Data-Driven solutions<br>🌱 Currently mastering Flutter for cross-platform development and Power BI for data visualization and analytics<br>🚀 Always exploring new technologies and innovative methodologies<br>🔍 Actively seeking internship and collaboration opportunities in software development and data science<br>🌟 Dedicated to continuous learning and growth in the evolving tech landscape
 
